@@ -1,17 +1,18 @@
 ---
 layout: page
 type: about
-title: "소개"
+title: "Basic Information"
 ---
 
-### 학력/소속
-* 학교
+### Education
+* University
   * (Sep. 2022 -- Current) University of Waterloo, Honors Mathematics
 
-### 온라인 저지 프로필
+### Online Judge Profiles
 {% include judge_profile.html boj_id="kosnoa" codeforces_id=" kosnoa" atcoder_id="kosnoa" %}
 
-
+### Contacts
+* <a href="https://www.linkedin.com/in/seungwoo-ko-512030225/">LinkedIn</a> 
 
 <!-- <details markdown="1">
 <summary>전체 보기 (펼치기/닫기)</summary>
