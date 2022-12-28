@@ -1,4 +1,6 @@
-# JusticeHui가 PS하는 블로그
+# Templated by JusticeHui
+
+<!-- # JusticeHui가 PS하는 블로그
 
 ### 알고리즘 튜토리얼 프로젝트
 [github projects](https://github.com/justiceHui/justiceHui.github.io/projects)에서 작성할 예정 혹은 너무 예전에 작성하여 수정이 필요한 게시물들을 관리하고 있습니다.<br>
@@ -32,4 +34,4 @@
   * `_config.yml`의 Disqus 관련 부분
   * `_includes/advertise.html` 전체
   * (사이드바에 광고를 넣지 않는다면) `_includes/_macro/sidebar.html` 하단 `{% include advertise.html %}` 부분 삭제
-4.  포스팅 작성 방법은 [여기](https://github.com/justiceHui/justiceHui.github.io/blob/master/posting.md)를 참고해주세요.
+4.  포스팅 작성 방법은 [여기](https://github.com/justiceHui/justiceHui.github.io/blob/master/posting.md)를 참고해주세요. -->
