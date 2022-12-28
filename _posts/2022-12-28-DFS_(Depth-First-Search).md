@@ -25,7 +25,7 @@ using namespace std;
 int arr[1000][1000];
 bool visited[1000][1000];
 int dx[] = {-1, 0, 1, 0};
-int dy[] = {0, -1, 0, 11};
+int dy[] = {0, -1, 0, 1};
 int n;
 
 void dfs(int y, int x)
