@@ -12,9 +12,7 @@ tags:
 This posting will go over about DFS (Depth-First Search).
 
 ### What is DFS?
-DFS(Depth-First Search) is an algorithm is that one type of algorithm that traverses the entire graph data structures or tree (i.e Brute-force), which focuses on "depth".
-DFS starts from a node and traverses the entire branch before it moves to the next branch.
-For example, when searching a maze, and the direction is fixed and reaches to the end, it would return to the closest fork and start a new traverse from a node that has not been visited.
+DFS(Depth-First Search) is an algorithm is that one type of algorithm that traverses the entire graph data structures or tree (i.e Brute-force), which focuses on "depth". DFS starts from a node and traverses the entire branch before it moves to the next branch. For example, when searching a maze, and the direction is fixed and reaches to the end, it would return to the closest fork and start a new traverse from a node that has not been visited.
 
 ### How does it work?
 
