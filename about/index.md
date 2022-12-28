@@ -13,7 +13,7 @@ title: "소개"
 
 
 
-<details markdown="1">
+<!-- <details markdown="1">
 <summary>전체 보기 (펼치기/닫기)</summary>
 <ul>
   {% for item in site.data.contest %}
@@ -22,7 +22,7 @@ title: "소개"
     </li>
   {% endfor %}
 </ul>
-</details>
+</details> -->
 
 <!-- ### 교육 활동
 * (21.03-Current) 삼성전자 사내 알고리즘 교육(Professional 양성과정, 실전실습과정) 코치 ([강의 이력](/about/secpro/))
