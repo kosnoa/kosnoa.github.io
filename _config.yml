@@ -124,7 +124,7 @@ menu:
   #categories: /categories/
   tags: /tags/
   categories: /navigator/
-  Resume: /resume/
+  resume: /resume/
   #sitemap: /menual/
   #commonweal: /404.html
 
@@ -145,7 +145,7 @@ menu_icons:
   archives: archive
   sitemap: sitemap
   commonweal: heartbeat
-  teach: users
+  resume: users
 
 # ---------------------------------------------------------------
 # Scheme Settings
