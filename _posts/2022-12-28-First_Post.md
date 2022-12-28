@@ -1,6 +1,6 @@
 ---
 title: "First Post"
-date: yyyy-MM-dd HH:mm:ss
+date: 2022-12-28 15:56:10
 categories:
 - Test
 tags:
