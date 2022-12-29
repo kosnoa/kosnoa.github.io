@@ -1,5 +1,5 @@
 ---
-title: "DFS - Depth-First Search (WIP)"
+title: "DFS - Depth-First Search"
 date: 2022-12-28 16:13:34
 categories:
 - Algorithm
