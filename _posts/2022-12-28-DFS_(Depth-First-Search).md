@@ -16,10 +16,12 @@ DFS(Depth-First Search) is an algorithm is that one type of algorithm that trave
     
 ### How does it work?
 Blue indicates that the node has been visited.
-<img src="https://media.discordapp.net/attachments/561006112199933984/1057828992255807558/Presentation.gif">
+<img src="https://media.discordapp.net/attachments/1057833095505645569/1058068016182611988/Presentation.gif">
 <font size="1">GIF of how DFS functions</font>
 
 The order for that graph would be 1-2-4-5-3-6.
+
+Time complexity for DFS is **O(V + E)** where V is the number of verticles and E is the number of edges.
 
 ### Source Code (My personal Template)
 
