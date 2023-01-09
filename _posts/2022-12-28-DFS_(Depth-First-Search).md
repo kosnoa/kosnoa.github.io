@@ -8,11 +8,12 @@ tags:
 - C++
 - DFS
 - Algorithm
+- Graph
 ---
 This posting will go over about DFS (Depth-First Search).
 
 ### What is DFS?
-DFS(Depth-First Search) is an algorithm is that one type of algorithm that traverses the entire graph data structures or tree (i.e Brute-force), which focuses on "depth". DFS starts from a node and traverses the entire branch before it moves to the next branch. For example, when searching a maze, and the direction is fixed and reaches to the end, it would return to the closest fork and start a new traverse from a node that has not been visited.
+DFS(Depth-First Search) is one type of algorithm that traverses the entire graph data structures or tree (i.e Brute-force), which focuses on "depth". DFS starts from a node and traverses the entire branch before it moves to the next branch. For example, when searching a maze, and the direction is fixed and reaches to the end, it would return to the closest fork and start a new traverse from a node that has not been visited.
     
 ### How does it work?
 Blue indicates that the node has been visited.
@@ -23,7 +24,7 @@ The order for that graph would be 1-2-4-5-3-6.
 
 Time complexity for DFS is **O(V + E)** where V is the number of verticles and E is the number of edges.
 
-### Source Code (My personal Template)
+### Source Code
 
 ```cpp
 #include <bits/stdc++.h>
