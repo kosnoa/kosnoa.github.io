@@ -1,0 +1,13 @@
+<input type="button" onclick="window.location.href='https://kosnoa.github.io/';" value="Go To Main" />
+<div id="adobe-dc-view"></div>
+<script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+<script type="text/javascript">
+    document.addEventListener("adobe_dc_view_sdk.ready", function(){
+        var adobeDCview = new AdobeDC.View({clientId: "865d892b16da4d89bf8a67499b82a6c8", divId: "adobe-dc-view"});
+        adobeDCview.previewFile({
+            content: {location: {url: "Seungwoo_Ko_s_Resume.pdf"}},
+            metaData: {fileName: "Seungwoo_Ko_s_Resume.pdf"}
+        }, {showAnnotationTools: false, showLeftHandPanel: false, dockPageControls: false});
+    });
+// https://developer.adobe.com/console/projects
+</script>
