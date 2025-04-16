@@ -6,10 +6,14 @@ title: "Basic Information"
 
 ### Education
 * University
-  * (Sep. 2022 -- Current) University of Waterloo, Honors Mathematics
+  * (Sep. 2022 -- Current) University of Waterloo, Honors Mathematics  
 
 ### Online Judge Profiles
 {% include judge_profile.html boj_id="kosnoa" codeforces_id=" kosnoa" atcoder_id="kosnoa" %}
+
+### Others
+* Military Service
+  * (Sep. 2023 -- Mar. 2025) Korean Army, Honoarble Discharge
 
 ### Contacts
 * <a href="https://www.linkedin.com/in/seungwoo-ko-512030225/">LinkedIn</a> 
