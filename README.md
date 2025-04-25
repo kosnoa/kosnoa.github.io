@@ -34,4 +34,8 @@
   * `_config.yml`의 Disqus 관련 부분
   * `_includes/advertise.html` 전체
   * (사이드바에 광고를 넣지 않는다면) `_includes/_macro/sidebar.html` 하단 `{% include advertise.html %}` 부분 삭제
-4.  포스팅 작성 방법은 [여기](https://github.com/justiceHui/justiceHui.github.io/blob/master/posting.md)를 참고해주세요. -->
+4.  포스팅 작성 방법은 [여기](https://github.com/justiceHui/justiceHui.github.io/blob/master/posting.md)를 참고해주세요. 
+
+bundle exec jekyll serve 로컬로 실행
+
+-->
