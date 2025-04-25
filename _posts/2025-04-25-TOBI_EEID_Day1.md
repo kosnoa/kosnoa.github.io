@@ -2,10 +2,10 @@
 title: "TBOI-EEID Day 1"
 date: 2025-04-25 02:31:49
 categories:
-- Journal
+- Programming
 - Project
 tags:
-- Journal
+- Project
 - Python
 - Game
 ---
