@@ -1,4 +1,4 @@
-# Templated by JusticeHui
+#kosnoa's Personal Blog
 
 <!-- # JusticeHui가 PS하는 블로그
 
