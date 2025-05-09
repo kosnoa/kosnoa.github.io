@@ -1,5 +1,5 @@
 ---
-title: "ZTMY Yankee 続 Arena Tour"
+title: "ZTMY Yankee 続 Arena Tour [Chiba Edition]"
 date: 2025-05-05 16:59:47
 categories:
 - Hobby
