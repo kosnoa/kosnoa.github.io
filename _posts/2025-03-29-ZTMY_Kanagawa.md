@@ -1,6 +1,6 @@
 ---
 title: "ZTMY Yankee 続 Arena Tour [Kanagawa Edition]"
-date: 2025-05-09 11:20:30
+date: 2025-05-04 11:20:30
 categories:
 - Hobby
 - JPOP
