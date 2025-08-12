@@ -16,7 +16,7 @@ DFS(Depth-First Search) is one type of algorithm that traverses the entire graph
     
 ### <center>How does it work?</center>
 Blue indicates that the node has been visited.
-<img src="https://media.discordapp.net/attachments/1057833095505645569/1058068016182611988/Presentation.gif">
+<!-- <img src="https://media.discordapp.net/attachments/1057833095505645569/1058068016182611988/Presentation.gif"> -->
 <font size="1">GIF of how DFS functions</font>
 
 The order for that graph would be 1-2-4-5-3-6.

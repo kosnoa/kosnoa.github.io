@@ -26,7 +26,7 @@ BFS(Breadth-First Search) is one type of alogrithm that starts from the root nod
 * BFS uses Queue to save the visited nodes in order and call it in order. (First In First Out)
 
 ### <center>How does it work?</center>
-<img src="https://media.discordapp.net/attachments/1057833095505645569/1061835681472720979/bfs.gif?width=908&height=511">
+<!-- <img src="https://media.discordapp.net/attachments/1057833095505645569/1061835681472720979/bfs.gif?width=908&height=511"> -->
 <font size="1">GIF of how BFS functions</font>
 
 The order for this example is 0-1-4-2-3.
