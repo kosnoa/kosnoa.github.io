@@ -4,6 +4,7 @@ date: 2025-08-06 11:32:34
 categories:
 - Hobby
 - JPOP
+- Review
 tags:
 - ZUTOMAYO
 - Ado
