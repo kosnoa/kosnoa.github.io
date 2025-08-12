@@ -11,8 +11,8 @@ tags:
 - Yankee
 ---
 
-### <center>Who is ZUTOMAYO?</center>
-<https://zutomayo.net/>
+### <center>Who is [ZUTOMAYO](https://zutomayo.net/)?</center>
+
 
 (한 달 반 동안 미룬 가나가와 후기)
 

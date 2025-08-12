@@ -12,7 +12,7 @@ tags:
 ---
 
 
-### <center>Who is ZUTOMAYO?</center>
+### <center>Who is [ZUTOMAYO](https://zutomayo.net/)?</center>
 
 ### <center>Tour Review</center>
 가나가와 토요일(이번 투어 첫콘)을 지정석으로 즐기고나서 가게된 프리미엄석은 나의 기대치를 더 올리게 만들었다. 운영적이나 위치의 아쉬움이 많았던 가나와가 공연과 달리 치바 일요일 공연은 정말 차원이 다른 경험을 나에게 주었다.
