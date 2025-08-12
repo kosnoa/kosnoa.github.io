@@ -11,19 +11,19 @@ tags:
 - Yankee
 ---
 
-### Who is ZUTOMAYO?
+### <center>Who is ZUTOMAYO?</center>
 <https://zutomayo.net/>
 
 (한 달 반 동안 미룬 가나가와 후기)
 
-### 즛마트 팝업스토어
+### <center>즛마트 팝업스토어</center>
 첫콘단은 언제나 승리한다!
 ![팝업 1](/post_image/25_03_29/popup5.jpeg)
 ![팝업 2](/post_image/25_03_29/popup3.jpeg)
 ![팝업 3](/post_image/25_03_29/popup1.jpeg)
 현장에서 40만원은 더 쓴거 같다
 
-### 콘서트 후기
+### <center>콘서트 후기</center>
 2차 지정석 당첨이였는데 자리는 많이 아쉬웠다 (스피커가 구조물을 가리는 바람에 100% 즐기지는 못했다). 즛마트 팝업이 같이 열려서인지 이른 시간에 사람들이 분산되가지고 현장에는 엄청나게 많은 사람이 있지는 않았다. 
 ![Truck](/post_image/25_03_29/truck.jpeg)
 
