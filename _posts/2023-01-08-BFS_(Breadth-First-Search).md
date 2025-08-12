@@ -10,7 +10,6 @@ tags:
 - Algorithm
 - Graph
 ---
-This posting will go over about BFS (Breadth-First Search).
 
 ### <center>What is BFS?</center>
 
