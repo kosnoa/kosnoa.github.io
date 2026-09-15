@@ -2,6 +2,9 @@
 {% if site.paginate > 0 %}{% assign posts = paginator.posts %}{% endif %}
 
 <section id="posts" class="posts-expand">
+  {% if posts == empty or posts == nil %}
+    <p>아직 공개된 글이 없습니다.</p>
+  {% endif %}
   {% for post in posts %}
     {% assign is_index = true %}
     {% include _macro/post.html %}
