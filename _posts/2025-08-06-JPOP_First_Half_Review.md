@@ -36,7 +36,7 @@ tags:
 대 카 네
 
 **💭 마무리 소감**
-*자세한 후기는 [가나가와](/_posts/2025-03-29-ZTMY_Kanagawa.md) & [치바](/_posts/2025-04-06-ZTMY_Chiba.md)에서 확인하실 수 있습니다.*
+*자세한 후기는 [가나가와]({% post_url 2025-03-29-ZTMY_Kanagawa %}) & [치바]({% post_url 2025-04-06-ZTMY_Chiba %})에서 확인하실 수 있습니다.*
 
 ---
 

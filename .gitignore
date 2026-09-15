@@ -1,5 +1,7 @@
 _site/*
 _theme_packages/*
+/.gjc/
+/archive_post/
 
 Thumbs.db
 .DS_Store
