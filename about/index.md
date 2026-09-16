@@ -11,9 +11,7 @@ title: "About Me"
 
 <div id="lang-ko">
 
-## About Me
-
-안녕하세요, 승우입니다.
+안녕하세요, 고승우입니다.
 
 새로운 것을 배우고 경험하는 것을 좋아합니다.  
 여행과 음악을 좋아하고, 수학이나 프로그래밍처럼 생각하면서 문제를 해결하는 일도 즐깁니다.
@@ -129,9 +127,7 @@ Toronto, Canada
 
 <div id="lang-en" style="display:none;">
 
-## About Me
-
-Hi, I'm **Seungwoo**.
+Hi, I'm **Tommy**.
 
 I enjoy learning new things, traveling, listening to music, and solving problems.  
 I've lived and studied in Korea, Canada, and Brazil, which has given me the opportunity to experience different cultures and perspectives.
