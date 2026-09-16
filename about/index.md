@@ -1,7 +1,7 @@
 ---
 layout: page
 type: about
-title: ”It’s me"
+title: "It’s me"
 ---
 
 <style>
