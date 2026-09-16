@@ -1,63 +1,141 @@
 ---
 layout: page
 type: about
-title: "Basic Information"
+title: "About Me"
 ---
 
-### Education
-* University
-  * (Sep. 2022 -- Apr. 2023) University of Waterloo, Honors Mathematics  
-  * (Jan. 2026 -- Current) University of Waterloo, Honors Mathematics
+## About Me
 
-### Online Judge Profiles
-{% include judge_profile.html boj_id="kosnoa" codeforces_id=" kosnoa" atcoder_id="kosnoa" %}
+Hi, I'm **Seungwoo**.
 
-### Others
-* Military Service
-  * (Sep. 2023 -- Mar. 2025) Korean Army, Honoarble Discharge
+I enjoy learning new things, teaching, traveling, listening to music, and solving problems.
+I've lived and studied in different countries, which has shaped how I see people, cultures, and education.
 
-### Contacts
-* <a href="https://www.linkedin.com/in/seungwoo-ko-512030225/">LinkedIn</a>
+These days, I'm especially interested in JPOP, traveling, and creating things that are useful or meaningful.
 
-<!-- <details markdown="1">
-<summary>전체 보기 (펼치기/닫기)</summary>
-<ul>
-  {% for item in site.data.contest %}
-    <li>
-      ({{ item.date }}) {{ item.name }} {{ item.role }} ({% if item.link %}<a href="{{ item.link }}">{% endif %}{{ item.site }}{% if item.link %}</a>{% endif %})
-    </li>
-  {% endfor %}
-</ul>
-</details> -->
+---
 
-<!-- ### 교육 활동
-* (21.03-Current) 삼성전자 사내 알고리즘 교육(Professional 양성과정, 실전실습과정) 코치 ([강의 이력](/about/secpro/))
-* (22.10-22.11) 선린인터넷고등학교 정보올림피아드반 **알고리즘 심화** 수업 (30시간, [수업 자료](https://github.com/justiceHui/Sunrin-SHARC/tree/master/2022-2nd))
-* (22.10-22.11) 숭실대학교 컴퓨터학부 문제해결 소모임 SCCC **중급 스터디** 수업 (10시간, [수업 자료](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-autumn-adv))
-* (22.09-22.11) 숭실대학교 컴퓨터학부 문제해결 소모임 SCCC **기초 스터디** 수업 (20시간)
-* (22.07-22.08) 2022 Summer ICPC Sinchon Algorithm Camp Advanced 강의 (10시간, [수업 자료](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-summer-sinchon-adv))
-* (22.05-22.06) 숭실대학교 컴퓨터학부 문제해결 소모임 SCCC **기초 스터디** 수업 (20시간, [수업 자료](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-spring-basic))
-* (22.01-22.01) 선린인터넷고등학교 정보올림피아드반 **이산수학 심화** 수업 (30시간)
-* (21.11-22.01) 선린인터넷고등학교 정보올림피아드반 **알고리즘 심화** 수업 (40시간, [수업 자료](https://github.com/justiceHui/Sunrin-SHARC/tree/master/2021-2nd))
-* (21.10-21.10) 선린인터넷고등학교 정보올림피아드반 **상업 경진 대회 대비** 수업 (10시간)
-* (21.09-21.11) 선린인터넷고등학교 정보올림피아드반 **알고리즘과 문제해결** 수업 (30시간, [수업 자료](https://github.com/justiceHui/Sunrin-SHARC/tree/master/2021-2nd))
-* (21.06-21.07) 선린인터넷고등학교 정보올림피아드반 **알고리즘과 이산수학** 수업 (30시간, [수업 자료](https://github.com/justiceHui/Sunrin-SHARC/tree/master/2021-1st))
-* (21.04-21.04) SSAFY B형 대비 알고리즘 특강 강사 -->
+<details markdown="1">
+<summary><strong>Education</strong></summary>
 
-<!-- <details markdown="1">
-<summary>고등학교 교내 활동 (펼치기/닫기)</summary>
-<ul>
-<li>(20.08-20.12) 선린인터넷고등학교 정보올림피아드반 <b>KOI 대비</b> 수업 (<a href = "https://github.com/justiceHui/Sunrin-SHARC/tree/master/2020-2nd">수업 자료</a>)</li>
-<li>(20.08-20.08) 선린인터넷고등학교 정보올림피아드반 <b>고급 알고리즘</b> 수업 (<a href = "https://github.com/justiceHui/Sunrin-SHARC/tree/master/2020-Summer">수업 자료</a>)</li>
-<li>(20.02-20.08) 선린인터넷고등학교 정보올림피아드반 고급 알고리즘 교재 집필</li>
-<li>(19.09-19.09) 소프트웨어 나눔축제(SSF 2019) 코딩 캠프 조교</li>
-<li>(19.08-19.09) 소프트웨어 나눔축제(SSF 2019) 코딩 캠프 교재 집필</li>
-<li>(19.05-19.07) 선린인터넷고등학교 프로그래밍 동아리(Unifox) 기초 자료구조/알고리즘 수업</li>
-<li>(19.04-19.05) 선린인터넷고등학교 정보올림피아드반 KOI 1차 대비 수업</li>
-<li>(19.01-19.01) 선린인터넷고등학교 신입생 특별 교육 조교</li>
-<li>(18.12-19.01) 선린인터넷고등학교 신입생 특별 교육 연습 문제 출제/검수/해설</li>
-<li>(18.09-18.11) 선린인터넷고등학교 알고리즘 스터디(Logic) 기초 알고리즘 수업</li>
-<li>(18.09-18.09) 교육 봉사 동아리(Hello Coding) 코딩 캠프 C언어 수업</li>
-<li>(18.09-18.09) 소프트웨어 나눔축제(SSF 2018) 코딩 캠프 조교</li>
-</ul>
-</details> -->
+### University of Waterloo
+**Waterloo, Ontario, Canada**
+
+- Mathematics
+- Sep. 2022 -- Apr. 2023
+- Studies to resume Jan. 2027
+
+</details>
+
+<br>
+
+<details markdown="1">
+<summary><strong>Teaching Experience</strong></summary>
+
+### EMCS (이음학교)
+**High School Mathematics & Science Teacher**  
+Suwon, South Korea  
+Aug. 2026 -- Present
+
+- Teach AP Calculus AB and AP Physics 1.
+- Teach mathematics and science courses aligned with Korean high school curricula.
+- Develop lesson materials, assignments, quizzes, and assessments.
+- Provide individualized academic support in mathematical reasoning, scientific concepts, and problem solving.
+
+### Grace Academy
+**English Instructor**  
+Hwaseong, South Korea  
+Jul. 2026 -- Present
+
+- Teach English to elementary and middle school students.
+- Deliver lessons in reading, writing, grammar, vocabulary, and communication.
+- Prepare assignments and assessments and provide individualized feedback.
+
+### 아소비 책통클럽 S학원
+**English and Mathematics Instructor**  
+Suwon, South Korea  
+Mar. 2026 -- Jul. 2026
+
+- Taught English and mathematics to elementary and middle school students.
+- Designed lessons based on students' academic levels and learning needs.
+- Prepared assignments and assessments and monitored student progress.
+
+### Seed International School
+**Computer Science Teacher**  
+Suwon, South Korea  
+Feb. 2026 -- Jun. 2026
+
+- Taught Scratch programming and foundational computational thinking.
+- Taught Python programming fundamentals and effective prompt writing for AI tools.
+- Guided project-based coding activities focused on logical reasoning and problem solving.
+- Delivered instruction in both English and Korean.
+
+### Private IELTS Tutor
+**Self-Employed**  
+Toronto, Ontario, Canada  
+Apr. 2025 -- Oct. 2025
+
+- Provided individualized IELTS instruction in speaking, writing, and reading.
+- Taught English grammar and test-taking strategies.
+- Provided instruction and feedback in both English and Korean.
+
+### Private Mathematics Tutor
+**Self-Employed**  
+Toronto, Ontario, Canada  
+Jan. 2022 -- Jan. 2023
+
+- Provided individualized mathematics instruction to elementary and middle school students.
+- Developed lesson plans based on school curricula and individual learning needs.
+
+</details>
+
+<br>
+
+<details markdown="1">
+<summary><strong>Volunteer Experience</strong></summary>
+
+### 국제통번역자원봉사단
+**Translation Volunteer**  
+South Korea  
+Jun. 2022 -- Aug. 2022
+
+- Translated documents and educational materials between Korean and English.
+- Supported event operations and participant communication.
+
+### Community & Animal Welfare Volunteering
+**Brazil**
+
+- Participated in community volunteer activities while studying in Brazil.
+- Supported animal welfare and shelter-related volunteer activities.
+
+</details>
+
+<br>
+
+<details markdown="1">
+<summary><strong>Military Service</strong></summary>
+
+### Republic of Korea Army (ROKA)
+**Active Duty Military Service**  
+South Korea  
+Sep. 2023 -- Mar. 2025
+
+- Honorably Discharged
+
+</details>
+
+<br>
+
+<details markdown="1">
+<summary><strong>Online Judge Profiles</strong></summary>
+
+{% include judge_profile.html boj_id="kosnoa" codeforces_id="kosnoa" atcoder_id="kosnoa" %}
+
+</details>
+
+<br>
+
+## Contacts
+
+- [LinkedIn](https://www.linkedin.com/in/seungwoo-ko-512030225/)
+- [GitHub](https://github.com/kosnoa)
